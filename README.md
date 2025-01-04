@@ -7,7 +7,7 @@ A simple Node.js package to retrieve the UID of Facebook profiles, pages, or gro
 > npm install kaiz-fbuid
 ```
 
-## Example Snippet
+## Usage :
 ```js
 const fbuid = require('kaiz-fbuid');
 
@@ -19,5 +19,5 @@ fbuid(url).then((uid) => {
 });
 
 ```
-## Output Example
+## Output Example :
 ```

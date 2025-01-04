@@ -20,4 +20,9 @@ fbuid(url).then((uid) => {
 
 ```
 ## Output Example :
+```js
+{
+    "author": "Kaizenji",
+    "UID": "100095290150085"
+}
 ```

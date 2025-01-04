@@ -1,6 +1,6 @@
 # kaiz-fbuid
 
-A simple Node.js package to retrieve the UID of Facebook profiles, pages, or groups using their username in the URL.
+A simple Node.js package to retrieve the UID of Facebook profiles, pages, or groups using link.
 
 ## Instalation :
 ```bash

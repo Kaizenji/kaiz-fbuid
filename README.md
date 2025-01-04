@@ -25,3 +25,5 @@ fbuid(url).then((uid) => {
     "UID": "100095290150085"
 }
 ```
+## Repository :
+https://github.com/Kaizenji/kaiz-fbuid.git

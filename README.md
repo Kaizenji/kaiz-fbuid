@@ -9,15 +9,13 @@ npm install kaiz-fbuid
 
 ## Usage :
 ```js
-const fbuid = require('kaiz-fbuid');
+const kaiz = require('kaiz-fbuid');
 
-const url = 'https://www.facebook.com/known.as.kaizenji';  // Example URL
-fbuid(url).then((uid) => {
-  console.log('Facebook UID:', uid);
-}).catch((error) => {
-  console.error('Error:', error);
-});
-
+(async () => {
+  const url = 'https://facebook.com/someprofile';
+  const data = await kaiz(url);
+  console.log(data);
+})();
 ```
 ## Output Example :
 ```js

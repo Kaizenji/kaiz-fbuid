@@ -1,6 +1,6 @@
 {
   "name": "kaiz-fbuid",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple Node.js package to retrieve the UID of Facebook profiles, pages, or groups using link.",
   "main": "index.js",
   "scripts": {

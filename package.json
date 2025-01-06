@@ -9,5 +9,21 @@
   "author": "Kaizenji",
   "license": "MIT",
   "dependencies": {
-    "axios": "^1.6.8"  }
+    "axios": "^1.6.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kaizenji/kaiz-fbuid.git"
+  },
+  "keywords": [
+    "facebook to uid",
+    "convert facebook link to uid",
+    "fbuid",
+    "finduid",
+    "facebook",
+    "uid",
+    "profile",
+    "page",
+    "group"
+  ]
 }
